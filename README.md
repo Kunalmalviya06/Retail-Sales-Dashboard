@@ -1,9 +1,9 @@
 
 
 
-![Dashboard 1](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444051/Sales_Dashboard_page-0001_dbzwl1.jpg)
+![Dashboard 1](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945711/Sales_Dashboard_page-0001_deplvr.jpg)
 
-![Dashboard 2](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444114/Sales_Dashboard_page-0002_zwut4b.jpg)
+![Dashboard 2](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945763/Sales_Dashboard_page-0002_ooufif.jpg)
 
 ![Dashboard 3](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444118/Sales_Dashboard_page-0003_agoop5.jpg)
 
