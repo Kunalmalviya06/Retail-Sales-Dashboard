@@ -12,6 +12,8 @@
 
 ![Dashboard 5](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444119/Sales_Dashboard_page-0005_qiprv8.jpg)
 
+### Live Dashboard Link - **👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhmOTc1MTQtNTFjZC00ZjEzLTg0MDItZmQwYmEwMTkwNWQ3IiwidCI6IjU5NTk0MTdlLTBlOTEtNDdkMi1iYmNiLTkyZjdjZDEwNmNiYyJ9&pageName=ad03817960aa16440e03)**
+
 ---
 # 📊 Retail Sales Dashboard (Excel / Power BI)
 
