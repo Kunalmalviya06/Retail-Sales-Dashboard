@@ -1,16 +1,40 @@
 
 
 
-![Dashboard 1](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945711/Sales_Dashboard_page-0001_deplvr.jpg)
+<details>
+  <summary>📊 Overview </summary>
 
-![Dashboard 2](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945763/Sales_Dashboard_page-0002_ooufif.jpg)
+  ![Dashboard 1](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945711/Sales_Dashboard_page-0001_deplvr.jpg)
 
-![Dashboard 3](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444118/Sales_Dashboard_page-0003_agoop5.jpg)
+</details>
 
+<details>
+  <summary>📊 Sales Analytics </summary>
 
-![Dashboard 4](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444117/Sales_Dashboard_page-0004_aync2c.jpg)
+  ![Dashboard 2](https://res.cloudinary.com/dzz2nken6/image/upload/v1755945763/Sales_Dashboard_page-0002_ooufif.jpg)
 
-![Dashboard 5](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444119/Sales_Dashboard_page-0005_qiprv8.jpg)
+</details>
+
+<details>
+  <summary>📊 Return Analytics </summary>
+
+  ![Dashboard 3](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444118/Sales_Dashboard_page-0003_agoop5.jpg)
+
+</details>
+
+<details>
+  <summary> Shipping Efficiency </summary>
+
+  ![Dashboard 4](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444117/Sales_Dashboard_page-0004_aync2c.jpg)
+
+</details>
+
+<details>
+  <summary>📊 Customer Insights</summary>
+
+  ![Dashboard 5](https://res.cloudinary.com/dzz2nken6/image/upload/v1755444119/Sales_Dashboard_page-0005_qiprv8.jpg)
+
+</details>
 
 ### Live Dashboard Link - **👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjhmOTc1MTQtNTFjZC00ZjEzLTg0MDItZmQwYmEwMTkwNWQ3IiwidCI6IjU5NTk0MTdlLTBlOTEtNDdkMi1iYmNiLTkyZjdjZDEwNmNiYyJ9&pageName=ad03817960aa16440e03)**
 
